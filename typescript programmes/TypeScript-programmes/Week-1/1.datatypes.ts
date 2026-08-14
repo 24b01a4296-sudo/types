@@ -1,4 +1,4 @@
-let studentName: string = "Nandini";
+let studentName: string = "srivalli";
 let studentAge: number = 20;
 let isPlaced: boolean = false;
 
